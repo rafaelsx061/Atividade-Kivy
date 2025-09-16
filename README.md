@@ -114,20 +114,3 @@ O desenvolvimento mobile é a criação de aplicativos para dispositivos móveis
 | **Compatibilidade**  | Qualquer dispositivo com navegador | Depende do SO       | Depende da plataforma (Android/iOS) |
 | **Custo de Dev**     | Geralmente menor         | Médio                | Alto (principalmente apps nativos) |
 
----
-
-## 📝 Conclusão
-Durante esta atividade, aprendemos que cada tipo de desenvolvimento tem seu papel e importância no ecossistema tecnológico. O **desenvolvimento Web** é ideal para acessibilidade, o **Desktop** para alta performance e uso offline, e o **Mobile** para engajamento direto com o usuário e integração com recursos do dispositivo.  
-Compreender essas diferenças permite que equipes escolham a abordagem mais adequada para cada projeto, maximizando eficiência e experiência do usuário.
-
----
-
-## 👥 Membros do Grupo
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
-
----
-
-> 💡 **Dica:** Adicione imagens ilustrativas, ícones e até trechos de código para deixar seu README mais atrativo e didático!
